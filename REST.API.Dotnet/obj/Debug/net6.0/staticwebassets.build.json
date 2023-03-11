@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uAX/Lyo8A5Xf4nrwu9W96TX8RdGdnEzvDcttSzqFlAk=",
+  "Source": "REST.API.Dotnet",
+  "BasePath": "_content/REST.API.Dotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

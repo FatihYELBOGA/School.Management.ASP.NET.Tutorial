@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\REST.API.Dotnet"
+    "\\REST.API.Dotnet",
+    "\\REST.API.Dotnet\\Generic",
+    "\\REST.API.Dotnet\\Repositories"
   ],
-  "SelectedNode": "\\REST.API.Dotnet.sln",
+  "SelectedNode": "\\REST.API.Dotnet\\Repositories\\IStudentRepository.cs",
   "PreviewInSolutionExplorer": false
 }

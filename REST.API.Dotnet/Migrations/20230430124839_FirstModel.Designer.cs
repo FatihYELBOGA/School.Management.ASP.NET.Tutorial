@@ -9,10 +9,10 @@ using School_Management.DatabaseConfig;
 
 #nullable disable
 
-namespace School_Management.Migrations
+namespace REST.API.Dotnet.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20230311111102_FirstModel")]
+    [Migration("20230430124839_FirstModel")]
     partial class FirstModel
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

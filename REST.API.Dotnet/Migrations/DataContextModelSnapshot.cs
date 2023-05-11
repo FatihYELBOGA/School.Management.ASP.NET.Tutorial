@@ -8,7 +8,7 @@ using School_Management.DatabaseConfig;
 
 #nullable disable
 
-namespace School_Management.Migrations
+namespace REST.API.Dotnet.Migrations
 {
     [DbContext(typeof(DataContext))]
     partial class DataContextModelSnapshot : ModelSnapshot

@@ -9,17 +9,14 @@ namespace School_Management.DatabaseConfig
         {
             if (dataContext.Database.GetPendingMigrations().Count() == 0)
             {
-                if (dataContext is DataContext)
+                if (dataContext.courses.Count() == 0 &&
+                    dataContext.students.Count() == 0 &&
+                    dataContext.studentscourses.Count() == 0)
                 {
-                    if( dataContext.courses.Count() == 0 && 
-                        dataContext.students.Count() == 0 && 
-                        dataContext.studentscourses.Count() == 0)
-                    {
-                        dataContext.courses.AddRange(courses);
-                        dataContext.students.AddRange(students);
-                        dataContext.studentscourses.AddRange(studentCourse);
-                    }
-                     
+                    dataContext.courses.AddRange(courses);
+                    dataContext.students.AddRange(students);
+                    dataContext.studentscourses.AddRange(studentCourse);
+                    
                     dataContext.SaveChanges();
                 }
             }

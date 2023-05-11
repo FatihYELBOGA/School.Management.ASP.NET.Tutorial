@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace School_Management.Migrations
+namespace REST.API.Dotnet.Migrations
 {
     public partial class FirstModel : Migration
     {

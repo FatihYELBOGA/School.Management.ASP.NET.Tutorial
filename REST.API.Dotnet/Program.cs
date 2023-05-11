@@ -2,7 +2,6 @@ using Microsoft.EntityFrameworkCore;
 using School_Management.Repositories;
 using System.Text.Json.Serialization;
 using School_Management.DatabaseConfig;
-using School_Management.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 

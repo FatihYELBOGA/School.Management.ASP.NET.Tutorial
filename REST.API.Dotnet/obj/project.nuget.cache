@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "etzsVoi+G68eCYeMYlhA8yDzPSbSDqUuGF8Uf3cOrq5+NxfHghkI1L/kjITJI3IUe4YEyerX4n4fOe/iecNyJA==",
+  "dgSpecHash": "LiX/9d6ERqXz90cqiR29R81/pX7GURedtLsmUK6Km2QPxTVhm30LUfFdFwQQqdBSnTPYmYALSSf58UDvcLeWDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fatih YELBOĞA\\source\\repos\\REST.API.Dotnet\\REST.API.Dotnet\\REST.API.Dotnet.csproj",
+  "projectFilePath": "C:\\Users\\Fatih YELBOĞA\\Desktop\\GitHub\\School.Management.ASP.NET.Tutorial\\REST.API.Dotnet\\REST.API.Dotnet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fatih YELBOĞA\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Fatih YELBOĞA\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

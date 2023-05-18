@@ -2,7 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\REST.API.Dotnet",
+    "\\REST.API.Dotnet\\Controllers",
+    "\\REST.API.Dotnet\\DatabaseConfig",
+    "\\REST.API.Dotnet\\DTO",
     "\\REST.API.Dotnet\\Generic",
+    "\\REST.API.Dotnet\\Migrations",
+    "\\REST.API.Dotnet\\Models",
     "\\REST.API.Dotnet\\Repositories"
   ],
   "SelectedNode": "\\REST.API.Dotnet\\Repositories\\IStudentRepository.cs",

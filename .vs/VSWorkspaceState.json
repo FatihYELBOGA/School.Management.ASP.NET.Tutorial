@@ -10,6 +10,6 @@
     "\\REST.API.Dotnet\\Models",
     "\\REST.API.Dotnet\\Repositories"
   ],
-  "SelectedNode": "\\REST.API.Dotnet\\Repositories\\IStudentRepository.cs",
+  "SelectedNode": "\\REST.API.Dotnet\\Controllers\\StudentController.cs",
   "PreviewInSolutionExplorer": false
 }

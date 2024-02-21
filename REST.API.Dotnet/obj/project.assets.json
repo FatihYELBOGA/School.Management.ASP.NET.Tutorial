@@ -2226,11 +2226,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fatih YELBOĞA\\Desktop\\GitHub\\School.Management.ASP.NET.Tutorial\\REST.API.Dotnet\\REST.API.Dotnet.csproj",
+      "projectUniqueName": "C:\\Users\\Fatih YELBOĞA\\Documents\\GitHub\\School.Management.ASP.NET.Tutorial\\REST.API.Dotnet\\REST.API.Dotnet.csproj",
       "projectName": "REST.API.Dotnet",
-      "projectPath": "C:\\Users\\Fatih YELBOĞA\\Desktop\\GitHub\\School.Management.ASP.NET.Tutorial\\REST.API.Dotnet\\REST.API.Dotnet.csproj",
+      "projectPath": "C:\\Users\\Fatih YELBOĞA\\Documents\\GitHub\\School.Management.ASP.NET.Tutorial\\REST.API.Dotnet\\REST.API.Dotnet.csproj",
       "packagesPath": "C:\\Users\\Fatih YELBOĞA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fatih YELBOĞA\\Desktop\\GitHub\\School.Management.ASP.NET.Tutorial\\REST.API.Dotnet\\obj\\",
+      "outputPath": "C:\\Users\\Fatih YELBOĞA\\Documents\\GitHub\\School.Management.ASP.NET.Tutorial\\REST.API.Dotnet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Fatih YELBOĞA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2297,7 +2297,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
